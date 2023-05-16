@@ -5,7 +5,7 @@
 </p>
 -->
 
-<h1 align="center"><font size="10">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Blessing</font><br/><p><font size="5">I'm a passionate Frontend Developer from Nigeria.</font></p></h1>
+<h1 align="center"><font size="10">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Blessing</font><br/><p><font size="5">I'm a passionate Frontend Developer from Singapore.</font></p></h1>
 
 ## 🙋‍♂️ About Me
 
@@ -15,11 +15,9 @@
 
 👯 Playing with **open source projects**
 
-👨‍💻 All of my projects are available on **[my portfolio](https://www.blessingolaleye.xyz)**
 
-📫 Reach me **olaleyedev@gmail.com**
+📫 Reach me **mosestodd333@gmail.com**
 
-⚡ Read **my articles** on [https://blog.blessingolaleye.xyz/](https://blog.blessingolaleye.xyz/)
 
 <!-- 👷 Current looking for full-time work(**frontend**) -->
 
@@ -60,14 +58,4 @@
 
 <a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Olaleye Blessing's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=olaleye-blessing&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
-## ❤ Connect with me:
 
-<p align="left">
-<a href = "https://www.linkedin.com/in/blessing-olaleye-139a22204/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/OlaleyeBlessin"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-
-</p>
-
-<!-- ## ❤ Views and Followers
-
-![](https://komarev.com/ghpvc/?username=olaleye-blessing&color=ff69b4) <a href="https://github.com/olaleye-blessing?tab=followers"><img src="https://img.shields.io/github/followers/olaleye-blessing?label=Followers&style=social" alt="GitHub Badge"></a> -->
