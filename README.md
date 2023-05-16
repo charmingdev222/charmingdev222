@@ -5,7 +5,7 @@
 </p>
 -->
 
-<h1 align="center"><font size="10">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Blessing</font><br/><p><font size="5">I'm a passionate Frontend Developer from Singapore.</font></p></h1>
+<h1 align="center"><font size="10">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm CharmingDev</font><br/><p><font size="5">I'm a passionate Frontend Developer from Singapore.</font></p></h1>
 
 ## 🙋‍♂️ About Me
 
